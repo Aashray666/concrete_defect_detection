@@ -106,13 +106,5 @@ python predict.py --image path_to_image.jpg
 ├── requirements.txt
 ├── README.md
 ```
-
-## Contributors
-- **[Your Name]** - Developer & Researcher
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 If you found this project useful, give it a ⭐ on [GitHub](https://github.com/your-repo-link)! 🚀
 
